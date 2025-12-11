@@ -1,0 +1,21 @@
+{
+  "submissions": [
+    {
+      "id": 1,
+      "text": "🎄 <b>Новая заявка на конкурс новогодних игрушек-2025</b>\n\n👤 <b>ФИО:</b> 3N\n🎂 <b>Возраст:</b> 221\n📍 <b>Населённый пункт, страна:</b> EF\n🏷 <b>Номинация:</b> EVGEF\n🎨 <b>Название работы:</b> W\n✉️ <b>Email для связи:</b> denik1902@inbox.lv",
+      "photo": "AgACAgQAAxkDAAMnaTmpn2oY3tz5Lj2q0quciJ__0NwAAnYMaxt778hRUAiqQCZg_8oBAAMCAAN5AAM2BA",
+      "favorite": false,
+      "selected": false,
+      "createdAt": 1765395929008
+    },
+    {
+      "id": 2,
+      "text": "🎄 <b>Новая заявка на конкурс новогодних игрушек-2025</b>\n\n👤 <b>ФИО:</b> УПАУ\n🎂 <b>Возраст:</b> 12\n📍 <b>Населённый пункт, страна:</b> ЦАВ\n🏷 <b>Номинация:</b> ЦУАВ\n🎨 <b>Название работы:</b> ЦАВ\n✉️ <b>Email для связи:</b> denik1902@inbox.lv",
+      "photo": "AgACAgQAAxkDAAOPaTnHRfHGg4M53TOKG_3mLUhGiYkAAsAMaxt778hRWy3AEDbmdpgBAAMCAAN3AAM2BA",
+      "favorite": false,
+      "selected": false,
+      "createdAt": 1765396948671
+    }
+  ],
+  "lastId": 2
+}
