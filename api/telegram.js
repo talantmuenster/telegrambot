@@ -2,7 +2,7 @@ import { Telegraf, Markup } from 'telegraf';
 import fs from 'fs';
 import path from 'path';
 
-const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKENN;
+const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const MANAGER_CHAT_ID = Number(process.env.MANAGER_CHAT_ID);
 
 if (!BOT_TOKEN) throw new Error('BOT TOKEN not provided');
